@@ -3,5 +3,16 @@ p {
         padding : 5;
         margin : 5;
         line-height : 20px;
-        font-family: "Roboto", Helvetica, Sans-serif
     }
+
+h1.a {
+  font-family: "Audiowide", sans-serif;
+}
+
+.p {
+  font-family: "Sofia", sans-serif;
+}
+
+h1.b {
+  font-family: "Trirong", serif;
+}
